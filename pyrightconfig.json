@@ -1,0 +1,15 @@
+{
+    "stubPath": "D:\\work-2025\\code-odoo\\recursos\\odoo_17_project\\odoo-stubs",
+    "extraPaths": [
+        "D:\\work-2025\\code-odoo\\recursos\\odoo_17_project\\odoo\\",
+        "D:\\work-2025\\code-odoo\\recursos\\odoo_17_project\\odoo\\odoo",
+        "D:\\work-2025\\code-odoo\\recursos\\odoo_17_project\\odoo\\addons\\",
+        
+        "D:\\work-2025\\code-odoo\\first_app\\addons",
+        "D:\\work-2025\\code-odoo\\first_app\\repos\\ser-seguridad",
+        "D:\\work-2025\\code-odoo\\first_app\\repos\\soy_ambiental-17.0",
+    ],
+    "reportIncompatibleMethodOverride": "none",
+    "reportPossiblyUnboundVariable": "none",
+    "reportArgumentType": "warning"
+}
